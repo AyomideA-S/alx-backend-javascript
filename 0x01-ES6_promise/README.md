@@ -8,9 +8,10 @@ This directory contains projects and exercises related to ES6 Promises in JavaSc
 2. [Learning Objectives](#learning-objectives)
 3. [Project Structure](#project-structure)
 4. [Getting Started](#getting-started)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
+5. [Installation](#installation)
+6. [Usage](#usage)
+7. [Contributing](#contributing)
+8. [License](#license)
 
 ## Introduction
 
@@ -41,12 +42,20 @@ git clone <repository-url>
 cd alx-backend-javascript/0x01-ES6_promise
 ```
 
+## Installation
+
+Install dependencies using:
+
+```bash
+npm install
+```
+
 ## Usage
 
 Run the JavaScript files using Node.js:
 
 ```bash
-node <filename>.js
+npm run dev main.js
 ```
 
 ## Contributing
