@@ -58,6 +58,12 @@ Run the JavaScript files using Node.js:
 npm run dev main.js
 ```
 
+NOTE: You can run the ESLinter using `npx`:
+
+```bash
+npx eslint <filename>.js
+```
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
